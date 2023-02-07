@@ -1,2 +1,3 @@
 select  name from v$database;
 selecct open_mode from v$database;
+select owner from v$dba_objects;
