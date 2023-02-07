@@ -1,1 +1,2 @@
 select  name from v$database;
+selecct open_mode from v$database;
